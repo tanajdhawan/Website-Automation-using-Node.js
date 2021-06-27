@@ -1,0 +1,19 @@
+{
+  "name": "Website_Automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asserts": "^4.0.2",
+    "chromedriver": "^91.0.1",
+    "geckodriver": "^2.0.0",
+    "puppeteer": "^10.0.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
